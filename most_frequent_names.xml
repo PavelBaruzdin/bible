@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bible>
+  <list lang="en">
+    <person id="en1">
+      <name>Yahweh</name>
+      <frequency>6836</frequency>
+    </person>
+    <person id="en2">
+      <name>David</name>
+      <frequency>2200</frequency>
+    </person>
+    <person id="en3">
+      <name>Jesus Christ</name>
+      <frequency>3083</frequency>
+    </person>
+    <person id="en4">
+      <name>Moses</name>
+      <frequency>1697</frequency>
+    </person>
+    <person id="en5">
+      <name>Judah</name>
+      <frequency>1657</frequency>
+    </person>
+    <person id="en6">
+      <name>Saul</name>
+      <frequency>844</frequency>
+    </person>
+    <person id="en7">
+      <name>Jacob</name>
+      <frequency>758</frequency>
+    </person>
+    <person id="en8">
+      <name>Aaron</name>
+      <frequency>702</frequency>
+    </person>
+    <person id="en9">
+      <name>Solomon</name>
+      <frequency>610</frequency>
+    </person>
+    <person id="en10">
+      <name>Abraham</name>
+      <frequency>499</frequency>
+    </person>
+    <person id="en11">
+      <name>Joseph</name>
+      <frequency>499</frequency>
+    </person>
+    <person id="en12">
+      <name>Joshua</name>
+      <frequency>437</frequency>
+    </person>
+    <person id="en13">
+      <name>Ephraim</name>
+      <frequency>356</frequency>
+    </person>
+    <person id="en14">
+      <name>Benjamin</name>
+      <frequency>334</frequency>
+    </person>
+    <person id="en15">
+      <name>Paul</name>
+      <frequency>323</frequency>
+    </person>
+    <person id="en16">
+      <name>Peter</name>
+      <frequency>323</frequency>
+    </person>
+    <person id="en17">
+      <name>Jeremiah</name>
+      <frequency>297</frequency>
+    </person>
+    <person id="en18">
+      <name>Manasseh</name>
+      <frequency>295</frequency>
+    </person>
+    <person id="en19">
+      <name>Joab</name>
+      <frequency>291</frequency>
+    </person>
+    <person id="en20">
+      <name>Samuel</name>
+      <frequency>284</frequency>
+    </person>
+    <person id="en21">
+      <name>John</name>
+      <frequency>265</frequency>
+    </person>
+    <person id="en22">
+      <name>Isaac</name>
+      <frequency>264</frequency>
+    </person>
+    <person id="en23">
+      <name>Hezekiah</name>
+      <frequency>259</frequency>
+    </person>
+    <person id="en24">
+      <name>Jonathan</name>
+      <frequency>243</frequency>
+    </person>
+    <person id="en25">
+      <name>Absalom</name>
+      <frequency>217</frequency>
+    </person>
+    <person id="en26">
+      <name>Jeroboam</name>
+      <frequency>208</frequency>
+    </person>
+    <person id="en27">
+      <name>Esau</name>
+      <frequency>202</frequency>
+    </person>
+    <person id="en28">
+      <name>Ahab</name>
+      <frequency>188</frequency>
+    </person>
+    <person id="en29">
+      <name>Jehoshaphat</name>
+      <frequency>171</frequency>
+    </person>
+    <person id="en30">
+      <name>Elijah</name>
+      <frequency>170</frequency>
+    </person>
+  </list>
+  <list lang="fr">
+    <person id="fr1">
+      <name>Jésus Christ</name>
+      <frequency>1775</frequency>
+    </person>
+    <person id="fr2">
+      <name>David</name>
+      <frequency>1106</frequency>
+    </person>
+    <person id="fr3">
+      <name>Moïse</name>
+      <frequency>862</frequency>
+    </person>
+    <person id="fr4">
+      <name>Juda</name>
+      <frequency>841</frequency>
+    </person>
+    <person id="fr5">
+      <name>Saül</name>
+      <frequency>415</frequency>
+    </person>
+    <person id="fr6">
+      <name>Jacob</name>
+      <frequency>400</frequency>
+    </person>
+    <person id="fr7">
+      <name>Aaron</name>
+      <frequency>367</frequency>
+    </person>
+    <person id="fr8">
+      <name>Salomon</name>
+      <frequency>306</frequency>
+    </person>
+    <person id="fr9">
+      <name>Joseph</name>
+      <frequency>265</frequency>
+    </person>
+    <person id="fr10">
+      <name>Abraham</name>
+      <frequency>257</frequency>
+    </person>
+    <person id="fr11">
+      <name>Josué</name>
+      <frequency>254</frequency>
+    </person>
+    <person id="fr12">
+      <name>Paul</name>
+      <frequency>188</frequency>
+    </person>
+    <person id="fr13">
+      <name>Éphraïm</name>
+      <frequency>186</frequency>
+    </person>
+    <person id="fr14">
+      <name>Pierre</name>
+      <frequency>170</frequency>
+    </person>
+    <person id="fr15">
+      <name>Benjamin</name>
+      <frequency>163</frequency>
+    </person>
+    <person id="fr16">
+      <name>Jérémie</name>
+      <frequency>152</frequency>
+    </person>
+    <person id="fr17">
+      <name>Manassé</name>
+      <frequency>152</frequency>
+    </person>
+    <person id="fr18">
+      <name>Joab</name>
+      <frequency>150</frequency>
+    </person>
+    <person id="fr19">
+      <name>Samuel</name>
+      <frequency>147</frequency>
+    </person>
+    <person id="fr20">
+      <name>Jean</name>
+      <frequency>144</frequency>
+    </person>
+    <person id="fr21">
+      <name>Isaac</name>
+      <frequency>137</frequency>
+    </person>
+    <person id="fr22">
+      <name>Ézéchias</name>
+      <frequency>134</frequency>
+    </person>
+    <person id="fr23">
+      <name>Jonathan</name>
+      <frequency>120</frequency>
+    </person>
+    <person id="fr24">
+      <name>Élie</name>
+      <frequency>114</frequency>
+    </person>
+    <person id="fr25">
+      <name>Absalom</name>
+      <frequency>108</frequency>
+    </person>
+    <person id="fr26">
+      <name>Ésaü</name>
+      <frequency>107</frequency>
+    </person>
+    <person id="fr27">
+      <name>Jéroboam</name>
+      <frequency>105</frequency>
+    </person>
+    <person id="fr28">
+      <name>Achab</name>
+      <frequency>100</frequency>
+    </person>
+    <person id="fr29">
+      <name>Nebucadnetsar</name>
+      <frequency>96</frequency>
+    </person>
+    <person id="fr30">
+      <name>Élisée</name>
+      <frequency>93</frequency>
+    </person>
+  </list>
+</bible>

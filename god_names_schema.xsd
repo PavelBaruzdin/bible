@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"> 
+    <xs:element name="bible">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="godNames" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="godNames">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="variant" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="variant">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="nameEn" minOccurs="1" maxOccurs="1"/>
+                <xs:element ref="frequencyEn" minOccurs="1" maxOccurs="1"/>
+                <xs:element ref="nameFr" minOccurs="1" maxOccurs="1"/>
+                <xs:element ref="frequencyFr" minOccurs="1" maxOccurs="1"/>
+            </xs:sequence>
+            <xs:attribute name="id" use="required" type="xs:ID"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="nameEn" type="xs:string"/>
+    <xs:element name="frequencyEn" type="xs:integer"/>
+    <xs:element name="nameFr" type="xs:string"/>
+    <xs:element name="frequencyFr" type="xs:integer"/>
+</xs:schema>

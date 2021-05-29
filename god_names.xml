@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bible>
+  <godNames>
+    <variant id="v1">
+      <nameEn>God</nameEn>
+      <frequencyEn>9210</frequencyEn>
+      <nameFr>Dieu</nameFr>
+      <frequencyFr>4177</frequencyFr>
+    </variant>
+    <variant id="v2">
+      <nameEn>Lord God</nameEn>
+      <frequencyEn>561</frequencyEn>
+      <nameFr>Seigneur Dieu</nameFr>
+      <frequencyFr>15</frequencyFr>
+    </variant>
+    <variant id="v3">
+      <nameEn>LORD</nameEn>
+      <frequencyEn>6582</frequencyEn>
+      <nameFr>l'Éternel</nameFr>
+      <frequencyFr>6969</frequencyFr>
+    </variant>
+    <variant id="v4">
+      <nameEn>the Lord</nameEn>
+      <frequencyEn>1535</frequencyEn>
+      <nameFr>le Seigneur</nameFr>
+      <frequencyFr>1133</frequencyFr>
+    </variant>
+    <variant id="v5">
+      <nameEn>the Father</nameEn>
+      <frequencyEn>553</frequencyEn>
+      <nameFr>le Père</nameFr>
+      <frequencyFr>264</frequencyFr>
+    </variant>
+    <variant id="v6">
+      <nameEn>Jehovah</nameEn>
+      <frequencyEn>7</frequencyEn>
+      <nameFr>l'Éternel</nameFr>
+      <frequencyFr>6969</frequencyFr>
+    </variant>
+    <variant id="v7">
+      <nameEn>Yahweh</nameEn>
+      <frequencyEn>6840</frequencyEn>
+      <nameFr>l'Éternel</nameFr>
+      <frequencyFr>6969</frequencyFr>
+    </variant>
+  </godNames>
+</bible>
